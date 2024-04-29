@@ -156,22 +156,3 @@ Function Prototype:
   * [1000-sort_deck.c](./1000-sort_deck.c): C function that sorts a `deck_node_t` doubly-linked list deck of cards.
   * Assumes that there are exactly `52` elements in the doubly-linked list.
   * Orders the deck from spades to diamonds and from aces to kings.
-
-
-## Authors
-<details>
-    <summary>Suara Ayomide</summary>
-    <ul>
-    <li><a href="https://www.github.com/aysuarex">Github</a></li>
-    <li><a href="https://www.twitter.com/Aysuarex">Twitter</a></li>
-    <li><a href="mailto:aysuarex@gmail.com">e-mail</a></li>
-    </ul>
-</details>
-<details>
-    <summary>Mohamed Ibrahima Traore</summary>
-    <ul
-    <li><a href="https://www.github.com/codivily">Github</a></li>
-    <li><a href="https://www.twitter.com/codivily">Twitter</a></li>
-    <li><a href="mailto:codivily@gmail.com">e-mail</a></li>
-    </ul>
-</details>
